@@ -17,7 +17,6 @@ string[] ArrayCreateFill(int size)
     }
     return array;
 }
-// string [] array = ArrayCreateFill(5);
 
 string[] ArrayMembersSelectionBySize(string[] array, int size)
 {
